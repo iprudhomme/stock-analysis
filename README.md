@@ -1,7 +1,7 @@
 # Green Energy Stock Analysis
 ## Overview of Project
 
-For the second project for the UC Davis Data Analytics class, we are using VBA in Excel to do an analysis of stock prices and daily trade volume for green energy stocks so that Steve can make recommendations to his parents on which companies to invest in.  Our class project project also focuses on the benefits of refactoring code to increase performance.
+For the second project for the UC Davis Data Analytics class, we are using VBA in Excel to do an analysis of stock prices and daily trade volume for green energy stocks.  The goal of the analysis is so that Steve can take our findings and make recommendations to his parents on which green energy stock companies may be better  invest in than the one they chose based solely on its name.  The class project also focuses on the benefits of refactoring code, which we have performed with the goal  to increase execution performance of the VBA script being used to do the analysis.
 
 ## Analysis 
 
@@ -18,7 +18,8 @@ For the second project for the UC Davis Data Analytics class, we are using VBA i
 
 ![Code time for 2018](./resources/VBA_Challenge_2018.png) 
 ![Original Code time for 2018](./resources/VBA_Challenge_2018_original.png) 
-
+![Code time for 2018](./resources/VBA_Challenge_2017.png) 
+![Original Code time for 2018](./resources/VBA_Challenge_2017_original.png) 
 
 ### Summary
 In both versions of our code, the stock prices of the available companies we analyzed received the same results.  However, by changing the algorithms we used to search the data, we were able to reduce the time it took to process the results by a factor of 6.  While neither of these execution times are great, both are under one second, the difference between them will become very noticable as the amount of data increases. Increasing the data by 100 times would have resulted in one version taking 1 min 20 secs, with the other taking just 13 seconds.  Refactoring our code can help us find bugs in the code that we may have missed, it can also help us improve the performance of the code by improving it's efficiency.  In addition, we can add comments we may have missed to increase readability as well.  
