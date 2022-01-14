@@ -1,7 +1,7 @@
 # Green Energy Stock Analysis
 ## Overview of Project
 
-For the second project for the UC Davis Data Analytics class, we are using VBA in Excel to do an analysis of stock prices and daily trade volume for green energy stocks.  The goal of the analysis is so that Steve can take our findings and make recommendations to his parents on which green energy stock companies may be better  invest in than the one they chose based solely on its name.  The class project also focuses on the benefits of refactoring code, which we have performed with the goal  to increase execution performance of the VBA script being used to do the analysis.
+For the second project for the UC Davis Data Analytics class, we are using VBA in Excel to do an analysis of stock prices and daily trade volume for green energy stocks.  The goal of the analysis is so that Steve can take our findings and make recommendations to his parents on which green energy stock companies may be better  to invest in than the one they chose based solely on its name.  The class project also focuses on the benefits of refactoring code, which we have performed with the goal  to increase execution performance of the VBA script being used to do the analysis.
 
 ## Analysis 
 
